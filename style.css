@@ -23,3 +23,7 @@ li { margin: 0.3em 0; }
 .wordmark small { display: block; letter-spacing: 0.9em; font-size: 0.75rem; color: var(--muted); margin-top: 4px; }
 .tagline { color: var(--muted); letter-spacing: 0.25em; text-transform: uppercase; font-size: 0.8rem; }
 footer { text-align: center; padding: 24px 16px 40px; border-top: 1px solid #1f1f1f; max-width: 760px; margin: 0 auto; }
+.hero { text-align: center; padding: 24px 0 8px; }
+.hero img { max-width: 46%; height: auto; }
+.hero .tagline { margin-top: 18px; }
+.logo-sm { height: 28px; width: auto; vertical-align: middle; }

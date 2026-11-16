@@ -1,0 +1,9 @@
+:root {
+  --iasl-obsidian: #0B0B0B;
+  --iasl-ivory: #F7F6F3;
+  --iasl-sand: #C9A96A;
+  --iasl-slate: #455A6B;
+  --iasl-body: Arial, Helvetica, sans-serif;
+}
+@font-face {font-family: Tajawal; src: url('Tajawal-Black.ttf') format('truetype'); font-weight:900;}
+.iasl-studio-wording {font-family:Tajawal,Arial,sans-serif;font-weight:900;}
